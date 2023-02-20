@@ -1,0 +1,38 @@
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.item {
+  padding: 20px;
+  margin: 20px 10px;
+  display: flex;
+  border-radius: 5px;
+  background-color: #fff;
+  color: #666;
+  box-shadow: 0 0 15px rgba(100, 100, 100, 0.2);
+}
+
+.right {
+  margin-left: 20px;
+}
+
+.right div {
+  margin-bottom: 10px;
+}
+
+.right .title {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.error {
+  color: #ff0000;
+  background-color: #ffcccc;
+  padding: 10px;
+  border-radius: 5px;
+}

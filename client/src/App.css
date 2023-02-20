@@ -1,0 +1,9 @@
+.App {
+  max-width: 980px;
+  margin: auto;
+}
+
+h1 {
+  color: #333;
+  margin: 20px 10px;
+}
